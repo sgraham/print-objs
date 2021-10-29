@@ -1,4 +1,4 @@
-$fn = 50;
+$fn = 360;
 
 layer_width=0.44;
 
@@ -10,7 +10,7 @@ cup_depth = 67.0;
 
 // Holder
 holder_diam_inner = 86;
-holder_depth = 50;
+holder_depth = 45;
 holder_thickness=3*layer_width;
 handle_width = 25;
 handle_start_depth=10;
